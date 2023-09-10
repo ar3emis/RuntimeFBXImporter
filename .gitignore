@@ -1,0 +1,9 @@
+Intermediate/
+Saved/
+Plugins/
+Platforms/
+.idea/
+*.sln
+
+*.vsconfig
+FBXImportDemo/.idea/
