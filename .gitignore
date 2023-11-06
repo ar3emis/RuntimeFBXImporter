@@ -4,6 +4,7 @@ Plugins/
 Platforms/
 .idea/
 *.sln
-
+!*.dll
 *.vsconfig
 FBXImportDemo/.idea/
+
