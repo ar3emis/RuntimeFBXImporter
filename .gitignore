@@ -8,3 +8,5 @@ Platforms/
 *.vsconfig
 FBXImportDemo/.idea/
 
+TestFBX/
+FBXImportDemo_5.3/Binaries/Win64/UnrealEditor-FBXImportDemo-Win64-DebugGame.dll
